@@ -1,0 +1,17 @@
+{
+  "name": "com.qcat.primitives-pack-a",
+  "version": "1.0.0",
+  "displayName": "Primitives Pack A",
+  "description": "Reusable 2D primitive textures for Unity prototyping and game development.",
+  "unity": "6000.0",
+  "author": {
+    "name": "Quantum Cat"
+  },
+  "keywords": [
+    "primitives",
+    "textures",
+    "2d",
+    "sprites",
+    "prototyping"
+  ]
+}

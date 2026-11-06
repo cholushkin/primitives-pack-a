@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f454932970c7cee41baa769bba410140, type: 3}
   m_Name: ModuleManifest(PrimitivesPack)
   m_EditorClassIdentifier: GameLib::GameLib.GameLibModuleManifest
-  Name: FeelMotion
+  Name: PrimitivesPackA
   Version: 1.0.0a
   Icon: {fileID: 21300000, guid: f374ae8c8695c2f4681822797d48d661, type: 3}
   Description: 'Description '
   Tags:
-  - animation
+  - art
